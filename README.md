@@ -7,8 +7,6 @@ Email:
 <a href="https://www.linkedin.com/in/paulo-santos-4884151b6/">LinkedIn</a>
 <hr>
 
-Segue abaixo os projetos desenvolvidos por mim.
-
  
 
 <!---
