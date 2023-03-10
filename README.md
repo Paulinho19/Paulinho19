@@ -2,7 +2,8 @@
 <p>Me chamo Paulo Henrique e estou disponível para trabalhos Front End</p>
 <hr>
 <h2>Contato</h2>
-<a href="#">Email: paulohsantosrocha@gmail.com</a>
+Email:
+<a href="#">paulohsantosrocha@gmail.com</a><br>
 <a href="https://www.linkedin.com/in/paulo-santos-4884151b6/">LinkedIn</a>
 <hr>
 
