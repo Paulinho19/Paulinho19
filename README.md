@@ -1,5 +1,5 @@
 <h1>Olá!</h1>
-<p>Me chamo Paulo Henrique e venho aperfeiçoando meus conhecimentos na área de <strong>desenvolvimento web</strong>. Também estou desenvolvendo minhas técnicas na linguagem <strong>Python</strong>.<br></p>
+<p>Me chamo Paulo Henrique e estou disponível para trabalhos Front End</p>
 <hr>
 <h2>Contato</h2>
 <p>Email: paulohsantosrocha@gmail.com</p>
