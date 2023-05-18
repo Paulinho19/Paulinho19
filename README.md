@@ -1,5 +1,5 @@
-<h1>Olá! ✌</h1>
-<p>Me chamo Paulo Henrique. Segue abaixo meus projetos 🚀🚀</p>
+<h1>Olá! 😜✌</h1>
+<p>Me chamo Paulo Henrique e este é meu repositório onde armazeno todos os projetos que já realizei como desenvolvedor web 🚀🚀</p>
 <hr>
 <h2>Contato</h2>
 Email:
