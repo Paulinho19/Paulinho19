@@ -1,5 +1,5 @@
-<h1>Olá!</h1>
-<p>Me chamo Paulo Henrique. Segue abaixo meus projetos</p>
+<h1>Olá! ✌</h1>
+<p>Me chamo Paulo Henrique. Segue abaixo meus projetos </p>
 <hr>
 <h2>Contato</h2>
 Email:
