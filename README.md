@@ -1,5 +1,5 @@
 <h1>Olá! 🚀</h1>
-<p>Me chamo Paulo Henrique e este é o local onde armazeno todos os projetos que já realizei como desenvolvedor web e outras áreas da programação 🚀🚀</p>
+<p>Me chamo Paulo Henrique e este é o local onde armazeno todos os projetos que já realizei como desenvolvedor web e outras áreas da programação</p>
 <hr>
 <h2>Contato</h2>
 Email:
