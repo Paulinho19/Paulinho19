@@ -24,6 +24,9 @@
 </div>
 
 
+![snake gif](https://github.com/Paulinho19/Paulinho19/blob/output/github-contribution-grid-snake.svg)
+
+
  
 
 <!---
