@@ -1,4 +1,4 @@
-## Olá!! Me chamo Paulo, desenvolvedor web e apaixonado por tecnologia 🚀
+## Olá!! Me chamo Paulo, crio sites e apps! Sou apaixonado por tecnologia e suas áreas correlatas ✨ 🚀
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulinho19&layout=compact&theme=dark)
