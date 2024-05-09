@@ -1,4 +1,4 @@
-## Olá, me chamo Paulo🖐!! Crio sites, apps e sou um entusiasta na arte de construir telinhas ✨ 🚀
+## Olá 🖐, me chamo Paulo! Crio sites, apps e sou um entusiasta na arte de construir telinhas ✨ 🚀
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulinho19&layout=compact&theme=dark)
