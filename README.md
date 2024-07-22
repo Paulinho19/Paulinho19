@@ -1,4 +1,4 @@
-## Olá 🖐, me chamo Paulo! Crio sites, apps ✨ 🚀
+## Olá 🖐, me chamo Paulo! Crio sites e apps ✨ 🚀
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulinho19&layout=compact&theme=dark)
