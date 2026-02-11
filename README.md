@@ -1,4 +1,4 @@
-## Olá 🖐, me chamo Paulo! ✨ 🚀
+## Hi there 🖐, My name is Paulo! ✨ 🚀
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulinho19&layout=compact&theme=dark)
