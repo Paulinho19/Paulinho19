@@ -1,4 +1,4 @@
-## Hi there 🖐, My name is Paulo! ✨ 🚀
+## Hi there 🖐, I'm Paulo! ✨ 🚀
 
 
 
